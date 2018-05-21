@@ -1,0 +1,6 @@
+[submodule "dokku-buildpack-jekyll3-nginx"]
+	path = dokku-buildpack-jekyll3-nginx
+	url = git@github.com:inket/dokku-buildpack-jekyll3-nginx.git
+[submodule "buildpack-nginx.git"]
+	path = buildpack-nginx.git
+	url = git@github.com:dokku/buildpack-nginx.git
