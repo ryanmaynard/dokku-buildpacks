@@ -9,7 +9,7 @@ A few buildpacks for dokku.
 
 ### Jekyll 3
 
-`https://github.com/inket/dokku-buildpack-jekyll3-nginx`
+`https://github.com/ryanmaynard/dokku-buildpack-jekyll3-nginx`
 
 ### Nginx
 
